@@ -7,3 +7,6 @@ xhofe/alist:latest
 
 #openproject
 openproject/openproject:14
+
+#PG SQL
+postgres/postgres:latest
