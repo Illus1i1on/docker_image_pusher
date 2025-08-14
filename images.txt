@@ -6,7 +6,7 @@
 --platform=linux/arm64 xiaoyaliu/alist
 
 #openproject
-openproject/community
+openproject
 
 #PG SQL
 postgres
